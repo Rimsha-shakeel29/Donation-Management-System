@@ -1,7 +1,7 @@
 # Donation-Mangment-System
 Object Oreinted Analysis and Design Project
 
-It was a pair-project (My pair member was Sana Bisharat 17L-4141)
+It was a pair-project (My pair member was Alishbah Farooq 17L-4327)
 
 It is donation-management system implemented in NetBeans and SQL Server Managment Studio that provides implementation of the following use cases:
 1.	Add a project (name, dsc, project manager, required budget, etc)
